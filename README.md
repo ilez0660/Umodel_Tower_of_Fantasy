@@ -1,4 +1,4 @@
-# Umodel_Tower_of_Fantasy
+# Tower_of_Fantasy_Umodel
 Here I'll tell you how to take characters or something from the tower of fantasy game.
 # Instruction manual
 ## What you need to download before you start
